@@ -16,3 +16,26 @@ coin-hive.com
 coinhiveproxy.com
 jsecoin.com
 crypto-loot.com
+
+# https://d3ward.github.io/toolz/src/adblock.html edit
+https://doubleclick.net/
+https://aan.amazon.com
+https://google-analytics.com
+https://hotjar.com
+https://static.hotjar.com
+https://mouseflow.com/
+https://a.mouseflow.com
+https://freshmarketer.com/
+https://youtube.cleverads.vn
+https://appmetrica.yandex.com
+https://data.mistat.xiaomi.com
+https://data.mistat.intl.xiaomi.com
+https://data.mistat.india.xiaomi.com
+https://data.mistat.rus.xiaomi.com
+https://tracking.intl.miui.com
+https://tracking.india.miui.com
+https://tracking.rus.miui.com
+https://open.oneplus.net
+https://samsungads.com
+https://samsung-com.112.2o7.net
+https://config.samsungads.com
