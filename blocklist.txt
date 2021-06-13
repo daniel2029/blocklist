@@ -18,14 +18,14 @@ jsecoin.com
 crypto-loot.com
 
 # https://d3ward.github.io/toolz/src/adblock.html edit
-doubleclick.net/
+doubleclick.net
 aan.amazon.com
 google-analytics.com
 hotjar.com
 static.hotjar.com
-mouseflow.com/
+mouseflow.com
 a.mouseflow.com
-freshmarketer.com/
+freshmarketer.com
 youtube.cleverads.vn
 appmetrica.yandex.com
 data.mistat.xiaomi.com
